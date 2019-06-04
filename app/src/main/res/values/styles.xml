@@ -8,4 +8,41 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="contentStyle">
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:lineSpacingMultiplier">1.2</item>
+        <item name="android:paddingStart">@dimen/layout_padding</item>
+        <item name="android:paddingLeft">@dimen/layout_padding</item>
+        <item name="android:paddingEnd">@dimen/layout_padding</item>
+        <item name="android:paddingRight">@dimen/layout_padding</item>
+        <item name="android:paddingTop">@dimen/layout_padding</item>
+        <item name="android:paddingBottom">@dimen/layout_padding</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="titleStyle">
+        <item name="android:textAlignment">center</item>
+        <item name="android:fontFamily">@font/roboto_black_italic</item>
+        <item name="android:paddingStart">@dimen/layout_padding</item>
+        <item name="android:paddingLeft">@dimen/layout_padding</item>
+        <item name="android:paddingEnd">@dimen/layout_padding</item>
+        <item name="android:paddingRight">@dimen/layout_padding</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="intentTextStyle">
+        <item name="android:fontFamily">cursive</item>
+        <item name="android:lineSpacingMultiplier">1.2</item>
+        <item name="android:paddingStart">@dimen/layout_padding</item>
+        <item name="android:paddingLeft">@dimen/layout_padding</item>
+        <item name="android:paddingEnd">@dimen/layout_padding</item>
+        <item name="android:paddingRight">@dimen/layout_padding</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="ButtonTheme" parent="ThemeOverlay.AppCompat">
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
 </resources>

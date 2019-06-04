@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".SecondAcitivity">
+    tools:context=".ThirdActivity">
 
     <TextView
         android:id="@+id/textmsg1"
@@ -26,7 +26,7 @@
         style="@style/titleStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/title1" />
+        android:text="@string/title2" />
 
     <ScrollView
         android:id="@+id/scrollView1"
@@ -44,7 +44,7 @@
                 style="@style/contentStyle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/content1" />
+                android:text="@string/content2" />
         </LinearLayout>
     </ScrollView>
 </LinearLayout>

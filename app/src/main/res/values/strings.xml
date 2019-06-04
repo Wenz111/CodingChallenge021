@@ -1,6 +1,170 @@
 <resources>
-    <string name="app_name">CodingChallenge02-1</string>
+    <string name="app_name">CodingChallenge02&#8211;1</string>
     <string name="text_one">Text One</string>
     <string name="text_two">Text Two</string>
     <string name="text_three">Text Three</string>
+
+    <!--Text 1 (Second Activity)-->
+    <string name="title1"><b><u>The Theme of the Protagonist\'s
+        Isolation in the Tragedy Richard III</u></b></string>
+    <string name="content1">
+        The tragedy of Richard III lies in the progressive
+        isolation of its protagonist\". Discuss. From the
+        very opening of the play when Richard III enters
+        \"solus\", the protagonist\'s isolation is made clear.
+        \n\n
+        Richard\'s isolation progresses as he separates
+        himself from the other characters and breaks the
+        natural bonds between Man and nature through his
+        efforts to gain power. The first scene of the play
+        begins with a soliloquy, which emphasizes Richard\'s
+        physical isolation as he appears alone as he speaks
+        to the audience. This idea of physical isolation is
+        heightened by his references to his deformity, such
+        as \"rudely stamp\'d&#8230;Cheated of feature by
+        Dissembling Nature, deformed, unfinished.
+        \n\n
+        This
+        deformity would be an outward indication to the
+        audience of the disharmony from Nature and
+        viciousness of his spirit. As he hates \"the idle
+        pleasures of these days\" and speaks of his plots to
+        set one brother against another, Richard seems
+        socially apart from the figures around him, and
+        perhaps regarded as an outsider or ostracized
+        because of his deformity. His separation from is
+        family is emphasized when he says \"Dive, thought\'s
+        down to my soul\" when he sees his brother
+        approaching.
+        \n\n
+        He is unable to share his thought with
+        his own family as he is plotting against them. Thus,
+        we are given hints of his physical, social and
+        spiritual isolation which is developed throughout
+        the play. But despite these hints, he still refers
+        to himself as part of the House of York, shown in
+        the repeated use of \"Our\". The concept of Richard\'s
+        physical isolation is reinforced in his dealings
+        with Anne in Act I scene ii.
+    </string>
+    <string name="yellowstar">yellowStar</string>
+
+    <!--Text 2 (Third Activity)-->
+    <string name="title2">
+        <b><u>The Advantages of Studying Shakespeare\'s Works in School</u></b>
+    </string>
+
+    <string name="content2">
+        Simply stated, students should study
+        Shakespeare\'s works in school because of
+        the incredible value within them. In
+        addition to exposing students to a
+        multitude of literary techniques,
+        Shakespeare\'s plays challenge the student
+        with difficult language and style, express
+        a profound knowledge of human behavior and
+        offer insight into the world around us.
+        \n\n
+        William Shakespeare is recognized by much
+        of the world as the greatest of all
+        dramatists. The intricate meanings,
+        extensive vocabulary, and powerful imagery
+        contained within his works demonstrate the
+        phenomenal story telling ability of the
+        English playwright. \"Shakespeare\'s use of
+        poetry within his plays to express the
+        deepest levels of human motivation in
+        individual, social and universal situations
+        is considered one of the greatest
+        accomplishments in literary history.\"
+        School programs offer students the
+        opportunity to study Shakespeare at length
+        and provoke a greater appreciation of his
+        literary ability. Analyzing his work
+        enables students to recognize, understand
+        and respect the playwright\'s true genius.
+        \n\n
+        Evident in Shakespeare\'s plays is the broad
+        use of irony, imagery, rhythm and other
+        literary devices. Through these devices, he
+        establishes atmosphere and character, and
+        intrigue. Exposure to these devices
+        provides students with a broad knowledge of
+        literary style and technique, while serving
+        to develop and improve writing skills.
+        Also, because much of the modern literary
+        ideas and writings allude to and can be
+        traced back to Shakespeare, familiarity
+        with his works can only be an advantage to
+        the student.
+        \n\n
+        Shakespeare wrote his plays to appeal to
+        Elizabethan audiences. Much of the text is
+        dated or archaic and is initially unknown
+        to the typical student. Yet upon thorough
+        study, the student will gain a deeper
+        knowledge and understanding of
+        Shakespeare\'s words and the English
+        language.
+    </string>
+
+    <!-- Text 3 (Fourth Activity) -->
+    <string name="title3">
+        <b><u>A Literary Analysis of the Characters in Othello by Williams Shakespeare</u></b>
+    </string>
+    <string name="content3">
+        In Othello, many events are more
+        significant than others because of mental
+        or psychological reasons. Shakespeare uses
+        images to give contrasted thoughts to
+        different parts of the play. Shakespeare
+        also gives the excitement to internal
+        events by giving the character or
+        characters feelings, such as being angry,
+        sad, happy, and scared. Another thing is
+        how a character changes his feelings in a
+        brief moment. In the play Othello, examples
+        of these are, how Othello changes his trust
+        from person to person, from Cassio to Iago;
+        Another is how he causes his wife to be
+        frightened of him. Also there is the mental
+        changes of Iago and how he is out for
+        revenge.
+        \n\n
+        Othello\’s character is the leading person
+        in the play. The way he feels gives
+        foreshadowing of what might be happening
+        next. When he trusted his lieutenant,
+        Michael Cassio, he had many doubts about
+        Iago. Soon on, he changes his trustees, he
+        stopped trusting Michael Cassio and started
+        trusting Iago. From this, he started having
+        doubts about Cassio. Even though Othello
+        trusts Iago, he still does not know that
+        Iago is out to get revenge from him. The
+        reason he changed his mind was because Iago
+        was putting ideas in his head telling him
+        that his wife, Desdemona, is cheating on
+        him. This, not only changes his mind about
+        who to trust, but it also gives his
+        character a great amount of energy.
+        \n\n
+        Something else that is mentally and
+        psychologically interesting is how he has
+        no trust in his wife Desdemona. Most
+        couples trust each other knowing the other
+        would never try to do anything to hurt
+        them. It\’s different in the story though,
+        Desdemona is extremely trustful of her
+        husband never hurting her in any way. But
+        Othello is just the opposite, he thinks
+        that she is cheating on him. This causes
+        him to be furious. Even though Othello does
+        not know the whole story, he still is angry
+        and he does not put any effort into
+        trusting his own wife when she tells him
+        that she did&#8230;
+    </string>
 </resources>
+
+

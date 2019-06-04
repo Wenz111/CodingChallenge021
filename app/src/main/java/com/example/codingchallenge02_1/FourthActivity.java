@@ -6,14 +6,14 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.widget.TextView;
 
-public class SecondAcitivity extends AppCompatActivity {
+public class FourthActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_second_acitivity);
+        setContentView(R.layout.activity_fourth);
 
-        // Get Intent on the previous Activity
+        // Get intent from Previous Activity
         Intent intent = getIntent();
         String message = intent.getStringExtra(MainActivity.EXTRA_MESSAGE);
         TextView textmsg1 = findViewById(R.id.textmsg1);
