@@ -1,4 +1,3 @@
-# CodingChallenge021
 # Screenshot for coding challenge 02-1
 # Main Screen
 ![main_screen](https://user-images.githubusercontent.com/50144145/58849995-28080300-86bf-11e9-9af6-6dfbb61f1672.png)
