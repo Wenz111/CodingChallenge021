@@ -19,21 +19,21 @@ public class MainActivity extends AppCompatActivity {
 
     public void launchSecondActivity(View view) {
         Intent intent = new Intent(this, SecondAcitivity.class);
-        String message = "This is from the Main Activity!";
+        String message = "Displaying Text One Activity!";
         intent.putExtra(EXTRA_MESSAGE, message);
         startActivity(intent);
     }
 
     public void launchThirdActivity(View view) {
         Intent intent = new Intent(this, ThirdActivity.class);
-        String message1 = "This is from the Main Activity!";
+        String message1 = "Displaying Text Two Activity!";
         intent.putExtra(EXTRA_MESSAGE, message1);
         startActivity(intent);
     }
 
     public void launchFourthActivity(View view) {
         Intent intent = new Intent(this, FourthActivity.class);
-        String message2 = "This is from the Main Activity!";
+        String message2 = "Displaying Text Three Activity!";
         intent.putExtra(EXTRA_MESSAGE, message2);
         startActivity(intent);
     }
